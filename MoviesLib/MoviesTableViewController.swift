@@ -15,6 +15,9 @@ class MoviesTableViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         loadLocalJSON()
+        
+        tableView.estimatedRowHeight = 106
+        tableView.rowHeight = UITableViewAutomaticDimension
        
     }
     
