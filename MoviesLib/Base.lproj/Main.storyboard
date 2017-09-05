@@ -69,9 +69,10 @@
                                         <constraint firstItem="LGC-OW-I6n" firstAttribute="top" secondItem="7KM-kW-TBr" secondAttribute="top" constant="6" id="XKF-m0-7qa"/>
                                         <constraint firstAttribute="trailing" secondItem="LGC-OW-I6n" secondAttribute="trailing" constant="10" id="cHt-J4-iBN"/>
                                         <constraint firstItem="e0b-vT-Sg8" firstAttribute="leading" secondItem="aVq-vo-cj7" secondAttribute="trailing" constant="14" id="ckA-Aa-I9f"/>
+                                        <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="aVq-vo-cj7" secondAttribute="bottom" constant="19" id="i5r-XT-CXy"/>
                                         <constraint firstAttribute="bottomMargin" secondItem="e0b-vT-Sg8" secondAttribute="bottom" constant="2" id="iKY-Az-FIV"/>
                                         <constraint firstItem="uyq-4V-OPz" firstAttribute="leading" secondItem="aVq-vo-cj7" secondAttribute="trailing" constant="14" id="sK5-3d-RrX"/>
-                                        <constraint firstItem="e0b-vT-Sg8" firstAttribute="top" secondItem="uyq-4V-OPz" secondAttribute="bottom" priority="250" constant="25.5" id="sqj-9v-muw"/>
+                                        <constraint firstItem="e0b-vT-Sg8" firstAttribute="top" secondItem="uyq-4V-OPz" secondAttribute="bottom" priority="250" constant="6" id="sqj-9v-muw"/>
                                         <constraint firstAttribute="trailingMargin" secondItem="uyq-4V-OPz" secondAttribute="trailing" constant="10" id="x9I-j9-pij"/>
                                         <constraint firstItem="aVq-vo-cj7" firstAttribute="leading" secondItem="7KM-kW-TBr" secondAttribute="leading" constant="12" id="ywh-GL-5g2"/>
                                     </constraints>
